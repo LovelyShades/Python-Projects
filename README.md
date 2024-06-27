@@ -1,2 +1,2 @@
-﻿# My current Python Projects from easiest to hardest IDDSDSDSSDK
+﻿# My current Python Projects from easiest to hardest
  
