@@ -34,4 +34,4 @@ else:
     print("Wrong\n")
     wrongCount += 1
     
-print("You got " + str(correctCount) + " correct and " + str(wrongCount) + " wrong!\n")
+print("You got " + str(correctCount) + " correct and " + str(wrongCount) + " wrong!❤️\n")
