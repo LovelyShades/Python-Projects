@@ -1,3 +1,5 @@
+#hello 
+
 print("\nwelcome to my computer quiz!\n")
 
 playing = input("Do you want to play?\nPlease type \"yes\" or \"no\"\n")
